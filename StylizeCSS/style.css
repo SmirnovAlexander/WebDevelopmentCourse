@@ -1,0 +1,42 @@
+body {
+  width: 70%;
+  margin: auto;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+p {
+  font-size: 13px;
+}
+
+figure {
+  float: right;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+table {
+  display: inline-block;
+}
+
+caption {
+  font-weight: bold;
+}
