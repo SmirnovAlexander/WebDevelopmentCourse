@@ -34,3 +34,22 @@ Below are listed all tasks with links and descriptions.
    - Text wrap option. Pictures on the right, text on the left.
    
    Final result should about match [this picture](StylizeCSS/template.png).
+
+## Homework 3. 
+09.02.20
+
+- [3.1](LandingPageUsingLayout/)
+
+   Make working html & css page using [given layout](https://www.figma.com/file/BL7wdCOSIxYFu1uxctuVzg/Домашнее-задание-Pied-Piper?node-id=0%3A1)
+
+   Requirements:
+   - Header is attached to top when scrolling;
+   - Content placed in block that have width of 1219px, side padding's -- 55px;
+   - Clicking on header links should move to page sections;
+   - Clicking on logo should move to top of the page; 
+   - Content in section should be centered (margin: auto) so that it would not allign to right side. Try different browser scale;
+   - To list blocks in row use display: inline-block; 
+   - Avoid setting width and heigh manually. Most of size can be set using margins and paddings. Exceptions -- images and fixed page container;
+   - Position property may be set only on header.
+  
+  Attach to your page [normalize.css](https://cdnjs.com/libraries/normalize), so styles will remain same in all browsers.
