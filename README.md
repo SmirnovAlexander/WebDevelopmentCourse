@@ -40,7 +40,7 @@ Below are listed all tasks with links and descriptions.
 
 - [3.1](LandingPageUsingLayout/)
 
-   Make working html & css page using [given layout](https://www.figma.com/file/BL7wdCOSIxYFu1uxctuVzg/Домашнее-задание-Pied-Piper?node-id=0%3A1)
+   Make working HTML & CSS page using [given layout](https://www.figma.com/file/BL7wdCOSIxYFu1uxctuVzg/Домашнее-задание-Pied-Piper?node-id=0%3A1).
 
    Requirements:
    - Header is attached to top when scrolling;
@@ -53,3 +53,10 @@ Below are listed all tasks with links and descriptions.
    - Position property may be set only on header.
   
   Attach to your page [normalize.css](https://cdnjs.com/libraries/normalize), so styles will remain same in all browsers.
+
+## Homework 4. 
+17.04.20
+
+- [4.1](AdaptiveGrid/)
+
+   Make an adaptive grid using [template](https://www.figma.com/file/Ey4hA2woPeTiXiMnlKAYRF/Grid-Exercise?node-id=0%3A1).
